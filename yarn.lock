@@ -2189,7 +2189,7 @@
     webdriver "7.17.3"
     webdriverio "7.17.4"
 
-"@wdio/selenium-standalone-service@^7.16.14":
+"@wdio/selenium-standalone-service@^7.14.1":
   version "7.17.3"
   resolved "https://registry.yarnpkg.com/@wdio/selenium-standalone-service/-/selenium-standalone-service-7.17.3.tgz#cbaa5dfd1e6e214b30e708752be9fc8a8b0ce27b"
   integrity sha512-rW8yZ4pf83uSRJ77yF6d2cSuTIF9KB4gjdJs0860TkGKOMd1xEFAeekOfIEHPizqeaQIgBNR1LZcSPNjQTTK9w==
